@@ -134,9 +134,9 @@
     </td>
       <td align="center" width="96">
       <a href="https://git-scm.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" width="48" height="48" alt="Git Hub" />
       </a>
-      <br>Git
+      <br>Git Hub
     </td>
       <td align="center"  width="96">
       <a href="#vscode">
@@ -155,6 +155,26 @@
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Wordpress.svg" width="48" height="48" alt="Wordpress" />
       </a>
       <br>WordPress
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="96">
+      <a href="https://www.php.net"  >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg?short_path=d680ce0" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.mongodb.com/">
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>IntelliJ
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.mysql.com/" >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vercel-Light.svg" width="48" height="48" alt="Vercel" />
+      </a>
+      <br>Vercel
     </td>
   </tr>
 </table>
