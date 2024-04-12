@@ -14,6 +14,7 @@
 </p>
 
 ---
+<h3 align="left">About Me:</h3>
 
 - 🔭 I’m currently working on **Full stack web development project**
 
@@ -26,6 +27,8 @@
 - 💬 Ask me about **Web development and designing stuff**
 
 - 📫 How to reach me **hirufernando1107@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -157,6 +160,7 @@
 </table>
 
 ---
+<h3 align="left">GitHub Stats:</h3>
 
 | ![Hirushi's github stats](https://github-readme-stats.vercel.app/api?username=hirushifernando&show_icons=true&theme=tokyonight) | ![Hirushi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirushifernando&theme=tokyonight) |
 | --- | --- |
