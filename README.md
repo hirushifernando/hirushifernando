@@ -134,7 +134,7 @@
     </td>
       <td align="center" width="96">
       <a href="https://git-scm.com/">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" width="48" height="48" alt="Git Hub" />
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="48" height="48" alt="Git Hub" />
       </a>
       <br>Git Hub
     </td>
@@ -166,7 +166,7 @@
     </td>
       <td align="center" width="96">
       <a href="https://www.mongodb.com/">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Dark.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>IntelliJ
     </td>
@@ -176,6 +176,24 @@
       </a>
       <br>Vercel
     </td>
+     <td align="center" width="96">
+      <a href="https://www.git.com/" >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td> 
+      <td align="center" width="96">
+      <a href="https://www.docker.com/" >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
+    </td> 
+      <td align="center" width="96">
+      <a href="https://www.tailwind.com/" >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="tailwind" />
+      </a>
+      <br>Tailwind CSS
+    </td> 
   </tr>
 </table>
 
