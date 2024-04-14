@@ -195,6 +195,14 @@
       <br>Tailwind CSS
     </td> 
   </tr>
+  <tr>
+	<td align="center" width="96">
+      <a href="https://www.bootstrap.com/" >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="48" height="48" alt="bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td> 
+  </tr>
 </table>
 
 ---
