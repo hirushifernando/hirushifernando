@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirushifernando&label=Profile%20views&color=0e75b6&style=flat" alt="hirushifernando" /> </p>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+end+Developer;UI+/+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+end+Developer;UI+/+UX+Designer;Graphic+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently studying at **Informatics Institute of Technology (IIT)**
 
-- 👯 I’m looking to collaborate on **MERN stack and UI/UX projects**
+- 👯 I’m looking to collaborate on **MERN stack , UI/UX and Graphic Design projects**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-pi-two.vercel.app/](https://personal-portfolio-pi-two.vercel.app/)
 
@@ -201,6 +201,12 @@
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="48" height="48" alt="bootstrap" />
       </a>
       <br>Bootstrap
+    </td> 
+	<td align="center" width="96">
+      <a href="https://www.illustrator.com/" >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="illustrator" />
+      </a>
+      <br>Adobe Illustrator
     </td> 
   </tr>
 </table>
