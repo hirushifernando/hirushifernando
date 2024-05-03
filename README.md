@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack , UI/UX and Graphic Design projects**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-pi-two.vercel.app/](https://personal-portfolio-pi-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-beta-blush.vercel.app/](https://personal-portfolio-beta-blush.vercel.app/)
 
 - 💬 Ask me about **Web development and designing stuff**
 
