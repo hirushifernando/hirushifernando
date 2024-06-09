@@ -126,12 +126,12 @@
       </a>
       <br>SpringBoot
     </td>
-     <td align="center" width="96">
-      <a href="https://www.adobe.com/products/xd.html">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/XD.svg" width="48" height="48" alt="Adobe XD" />
+    <td align="center" width="96">
+      <a href="https://www.illustrator.com/" >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="illustrator" />
       </a>
-      <br>Adobe XD
-    </td>
+      <br>Adobe Illustrator
+    </td> 
       <td align="center" width="96">
       <a href="https://git-scm.com/">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="48" height="48" alt="Git Hub" />
@@ -183,30 +183,16 @@
       <br>Git
     </td> 
       <td align="center" width="96">
-      <a href="https://www.docker.com/" >
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" width="48" height="48" alt="docker" />
+      <a href="https://www.bootstrap.com/" >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="48" height="48" alt="bootstrap" />
       </a>
-      <br>Docker
+      <br>Bootstrap
     </td> 
       <td align="center" width="96">
       <a href="https://www.tailwind.com/" >
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="tailwind" />
       </a>
       <br>Tailwind CSS
-    </td> 
-  </tr>
-  <tr>
-	<td align="center" width="96">
-      <a href="https://www.bootstrap.com/" >
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="48" height="48" alt="bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td> 
-	<td align="center" width="96">
-      <a href="https://www.illustrator.com/" >
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="illustrator" />
-      </a>
-      <br>Adobe Illustrator
     </td> 
   </tr>
 </table>
