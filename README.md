@@ -43,7 +43,7 @@
   <tr>
       <td align="center" width="96">
       <a href="https://www.w3.org/html/">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
