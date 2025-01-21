@@ -20,9 +20,9 @@
 
 - 🌱 I’m currently studying at **Informatics Institute of Technology (IIT)**
 
-- 👯 I’m looking to collaborate on **MERN stack , UI/UX and Graphic Design projects**
+- 👯 I’m looking to collaborate on **MERN stack & UI/UX Design projects**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-beta-blush.vercel.app/](https://personal-portfolio-beta-blush.vercel.app/)
+- 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://personal-portfolio-beta-blush.vercel.app/)
 
 - 💬 Ask me about **Web development and designing stuff**
 
@@ -33,7 +33,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hirushifernando-a47b00266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hirushifernando-a47b00266/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hiru_fernando07?igsh=b3jwmwz6mhjrymxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hiru_fernando07?igsh=b3jwmwz6mhjrymxx" height="30" width="40" /></a>
 </p>
 
 ---
