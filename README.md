@@ -9,14 +9,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirushifernando&label=Profile%20views&color=0e75b6&style=flat" alt="hirushifernando" /> </p>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Front+end+Developer;UI+/+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;UI+/+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 ---
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on **Front-end development project**
+- 🔭 I’m currently working on **Front-End development project**
 
 - 🌱 I’m currently studying at **Informatics Institute of Technology (IIT)**
 
