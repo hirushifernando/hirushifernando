@@ -80,10 +80,10 @@
 
   <tr>
      <td align="center" width="96">
-      <a href="https://www.php.net"  >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      <a href="https://mui.com/">
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MaterialUI-Light.svg" width="48" height="48" alt="MaterialUI" />
       </a>
-      <br>PHP
+      <br>MaterialUI
     </td>
       <td align="center" width="96">
       <a href="https://www.mongodb.com/">
@@ -120,10 +120,10 @@
   </tr>
    <tr>
       <td align="center" width="96">
-      <a href="https://spring.io/"  >
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"width="48" height="48" alt="spring" />
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>SpringBoot
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="https://www.illustrator.com/" >
@@ -193,20 +193,6 @@
       </a>
       <br>Tailwind CSS
     </td> 
-  </tr>
-  <tr>
-     <td align="center" width="96">
-      <a href="https://mui.com/">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MaterialUI-Light.svg" width="48" height="48" alt="MaterialUI" />
-      </a>
-      <br>MaterialUI
-    </td>
-      <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
   </tr>
 </table>
 
