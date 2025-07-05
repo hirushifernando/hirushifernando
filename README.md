@@ -4,23 +4,23 @@
    
 <h1 align="center">Hi 👋, I'm Hirushi Fernando</h1><p align="center">
 
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Front-End Developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirushifernando&label=Profile%20views&color=0e75b6&style=flat" alt="hirushifernando" /> </p>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+end+Developer;UI+/+UX+Designer;Graphic+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Front+end+Developer;UI+/+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 ---
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on **Full stack web development project**
+- 🔭 I’m currently working on **Front-end development project**
 
 - 🌱 I’m currently studying at **Informatics Institute of Technology (IIT)**
 
-- 👯 I’m looking to collaborate on **MERN stack & UI/UX Design projects**
+- 👯 I’m looking to collaborate on **Front-End Development & UI/UX Design projects**
 
 - 👨‍💻 All of my projects are available at [MY PORTFOLIO](#)
 
@@ -193,6 +193,20 @@
       </a>
       <br>Tailwind CSS
     </td> 
+  </tr>
+  <tr>
+     <td align="center" width="96">
+      <a href="https://mui.com/">
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MaterialUI-Light.svg" width="48" height="48" alt="MaterialUI" />
+      </a>
+      <br>MaterialUI
+    </td>
+      <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
   </tr>
 </table>
 
