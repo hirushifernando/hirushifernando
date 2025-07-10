@@ -194,6 +194,14 @@
       <br>Tailwind CSS
     </td> 
   </tr>
+  <tr>
+     <td align="center" width="96">
+      <a href="https://about.gitlab.com/"  >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GitLab-Light.svg" width="48" height="48" alt="GitLab" />
+      </a>
+      <br>GitLab
+    </td>
+  </tr>
 </table>
 
 ---
