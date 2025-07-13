@@ -201,6 +201,12 @@
       </a>
       <br>GitLab
     </td>
+    <td align="center" width="96">
+      <a href="https://sass-lang.com/"  >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sass.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
   </tr>
 </table>
 
