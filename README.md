@@ -207,6 +207,12 @@
       </a>
       <br>Sass
     </td>
+    <td align="center" width="96">
+      <a href="https://vuejs.org/"  >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VueJS-Light.svg" width="48" height="48" alt="Vue" />
+      </a>
+      <br>Vue.JS
+    </td>
   </tr>
 </table>
 
