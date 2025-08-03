@@ -213,6 +213,12 @@
       </a>
       <br>Vue.JS
     </td>
+    <td align="center" width="96">
+      <a href="https://www.php.net/"  >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" height="48" alt="php" />
+      </a>
+      <br>PHP
+    </td>
   </tr>
 </table>
 
