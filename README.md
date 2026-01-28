@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
     </td>
@@ -60,7 +60,7 @@
     </td>
      <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
@@ -218,6 +218,18 @@
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" height="48" alt="php" />
       </a>
       <br>PHP
+    </td>
+	<td align="center" width="96">
+      <a href="https://aws.amazon.com/free/?trk=54026797-7540-48d8-9f6b-0db2c3a0040c&sc_channel=ps&trk=54026797-7540-48d8-9f6b-0db2c3a0040c&sc_channel=ps&ef_id=Cj0KCQiA4eHLBhCzARIsAJ2NZoJL3sTnifXnOmGaigMIwa9UulIQJ29vA42nOVw6qYhn8_WUCR6_jhMaAsrmEALw_wcB:G:s&s_kwcid=AL!4422!3!785574063527!e!!g!!aws!23291338728!189486861255&gad_campaignid=23291338728&gbraid=0AAAAADjHtp-Y_oSHMEdwzyYYwhT8MbL6h&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoJL3sTnifXnOmGaigMIwa9UulIQJ29vA42nOVw6qYhn8_WUCR6_jhMaAsrmEALw_wcB"  >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Light.svg" width="48" height="48" alt="aws" />
+      </a>
+      <br>AWS
+    </td>
+	<td align="center" width="96">
+      <a href="https://www.docker.com/"  >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
     </td>
   </tr>
 </table>
