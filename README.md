@@ -33,6 +33,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hirushi-fernando-a47b00266/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BT3VqMH7sRa6WnJ1n36SxIA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hirushifernando-a47b00266/" height="30" width="40" /></a>
+<a href="https://www.behance.net/hirushifernando1107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hirushi fernando" height="30" width="40" /></a>
+<a href="https://medium.com/@hirufernando1107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hirufernando1107" height="30" width="40" /></a>
+<a href="https://kaggle.com/hirushifernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hirushifernando" height="30" width="40" /></a>
+<a href="https://youtube.com/@hirushifernando8175?si=WKUneTDz8eC0Isxp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hirushifernando8175" height="30" width="40" /></a>
 </p>
 
 ---
