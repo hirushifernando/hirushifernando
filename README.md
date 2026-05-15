@@ -237,4 +237,5 @@
 ---
 <h3 align="left">GitHub Stats:</h3>
 
-| ![Hirushi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirushifernando&theme=tokyonight) | <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture> |
+![Hirushi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirushifernando&theme=tokyonight) 
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture> 
