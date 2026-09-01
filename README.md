@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirushifernando&label=Profile%20views&color=0e75b6&style=flat" alt="hirushifernando" /> </p>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=AI+/+ML+Developer;Front+End+Developer;UI+/+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=AI+/+ML+Developer;Data+Scientists;Python+Developer;Front+End+Developer;UI+/+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently studying at **Informatics Institute of Technology (IIT), affiliated with the University of Westminster**
 
-- 👯 I’m looking to collaborate on **AI/ML Development & Front-End Development & UI/UX Design projects**
+- 👯 I’m looking to collaborate on **AI/ML Development & Data Science & Python Development & Front-End Development & UI/UX Design projects**
 
 - 👨‍💻 All of my projects are available at [MY PORTFOLIO](#)
 
