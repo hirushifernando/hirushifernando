@@ -218,10 +218,10 @@
       <br>Next.JS
     </td>
     <td align="center" width="96">
-      <a href="https://www.php.net/"  >
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" height="48" alt="php" />
+      <a href="https://fastapi.tiangolo.com/"  >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/FastAPI.svg" width="48" height="48" alt="php" />
       </a>
-      <br>PHP
+      <br>Fast API
     </td>
 	<td align="center" width="96">
       <a href="https://aws.amazon.com/free/?trk=54026797-7540-48d8-9f6b-0db2c3a0040c&sc_channel=ps&trk=54026797-7540-48d8-9f6b-0db2c3a0040c&sc_channel=ps&ef_id=Cj0KCQiA4eHLBhCzARIsAJ2NZoJL3sTnifXnOmGaigMIwa9UulIQJ29vA42nOVw6qYhn8_WUCR6_jhMaAsrmEALw_wcB:G:s&s_kwcid=AL!4422!3!785574063527!e!!g!!aws!23291338728!189486861255&gad_campaignid=23291338728&gbraid=0AAAAADjHtp-Y_oSHMEdwzyYYwhT8MbL6h&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoJL3sTnifXnOmGaigMIwa9UulIQJ29vA42nOVw6qYhn8_WUCR6_jhMaAsrmEALw_wcB"  >
