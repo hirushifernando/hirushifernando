@@ -16,7 +16,7 @@
 ---
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on **AI/ML project**
+- 🔭 I’m currently learning **Cloud Computing**
 
 - 🌱 I’m currently studying at **Informatics Institute of Technology (IIT), affiliated with the University of Westminster**
 
