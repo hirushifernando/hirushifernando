@@ -20,11 +20,11 @@
 
 - 🌱 I’m currently studying at **Informatics Institute of Technology (IIT), affiliated with the University of Westminster**
 
-- 👯 I’m looking to collaborate on **AI/ML Development & Data Science & Python Development & Front-End Development & UI/UX Design projects**
+- 👯 I’m looking to collaborate on **AI/ML & Data Science | Python & Front-End Development | UI/UX Design projects**
 
 - 👨‍💻 All of my projects are available at [MY PORTFOLIO](#)
 
-- 💬 Ask me about **AI/ML & Web development and designing stuff**
+- 💬 Ask me about **AI/ML & Software development and designing stuff**
 
 - 📫 How to reach me **hirufernando1107@gmail.com**
 
