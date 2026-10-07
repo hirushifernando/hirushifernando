@@ -162,10 +162,10 @@
   </tr>
   <tr>
      <td align="center" width="96">
-      <a href="https://www.overleaf.com/"  >
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LaTeX-Light.svg" width="48" height="48" alt="latex" />
+      <a href="https://www.tensorflow.org/"  >
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TensorFlow-Light.svg" width="48" height="48" alt="tensor" />
       </a>
-      <br>LaTeX
+      <br>TensorFlow
     </td>
       <td align="center" width="96">
       <a href="https://www.mongodb.com/">
