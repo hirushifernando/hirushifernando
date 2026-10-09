@@ -16,15 +16,17 @@
 ---
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently learning **Cloud Computing**
+- 🤖 I'm passionate about **Artificial Intelligence, Machine Learning, and Data Science.**
 
-- 🌱 I’m currently studying at **Informatics Institute of Technology (IIT), affiliated with the University of Westminster**
+- 🎓 I’m a **BSc (Hons) Computer Science Graduate from Informatics Institute of Technology (IIT), affiliated with the University of Westminster**
 
-- 👯 I’m looking to collaborate on **AI/ML & Data Science | Python & Front-End Development | UI/UX Design projects**
+- 🌱 I’m currently expanding my knowledge in **Deep Learning, NLP, Computer Vision, Generative AI, and RAG**
+  
+- 👯 I'm looking to collaborate on **AI/ML & Data Science | Python Development | AI-powered projects.**
 
-- 👨‍💻 All of my projects are available at [MY PORTFOLIO](#)
+- 👨‍💻 Explore my projects and work on my [PORTFOLIO](#)
 
-- 💬 Ask me about **AI/ML & Software development and designing stuff**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python, Data Science, Front-End Development, and UI/UX Design.**
 
 - 📫 How to reach me **hirufernando1107@gmail.com**
 
